@@ -9,5 +9,9 @@ public class Calculator {
 	public void subtraction(){
 		System.out.println("Sub Method");
 	}
+	
+	public void multiplication() {
+		System.out.println("Mul Method");
+	}
 
 }
