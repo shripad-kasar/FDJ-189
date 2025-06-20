@@ -18,4 +18,8 @@ public class Calculator {
 		System.out.println("Div Method");
 	}
 
+	public void division() {
+		System.out.println("Div Method");
+	}
+
 }
