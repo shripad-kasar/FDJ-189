@@ -14,4 +14,8 @@ public class Calculator {
 		System.out.println("Mul Method");
 	}
 
+	public void division() {
+		System.out.println("Div Method");
+	}
+
 }
